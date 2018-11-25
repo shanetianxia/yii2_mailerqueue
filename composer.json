@@ -1,5 +1,5 @@
 {
-    "name": "shane/mailerqueue",
+    "name": "shanetianxia/mailerqueue",
 
     "type": "yii2-extension",
 
@@ -25,7 +25,7 @@
 
     "autoload": {
         "psr-4": {
-            "shane\\mailerqueue\\": "src/"
+            "shanetianxia\\mailerqueue\\": "src/"
         }
     }
 }
